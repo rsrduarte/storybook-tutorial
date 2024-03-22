@@ -3284,7 +3284,7 @@ chownr@^2.0.0:
   resolved "https://registry.npmjs.org/chownr/-/chownr-2.0.0.tgz"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
-chromatic@^11.0.0:
+chromatic@^11.0.0, chromatic@^11.2.0:
   version "11.2.0"
   resolved "https://registry.npmjs.org/chromatic/-/chromatic-11.2.0.tgz"
   integrity sha512-b7vzlMuy/68WnH0N6nXpo8FiFK5pEF0ClIyVVK9YfYYSbGLo5/6Lh/VEbjWMoRaShCUk59YSXA43Npa2NrXIsg==
